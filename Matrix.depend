@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1479749920 source:d:\programming\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"xgraph.h"
+	<windows.h>
+
+1386349778 d:\programming\matrix\conio2.h
+	<conio.h>
+	<windows.h>
+
+1386429876 source:d:\programming\matrix\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1479746264 source:d:\programming\matrix\xgraph.c
+	"conio2.h"
+
+1479746264 d:\programming\matrix\xgraph.h
+
